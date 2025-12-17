@@ -37,7 +37,7 @@ Designed with a luxury-inspired UI and cinematic prompt presets, this project de
 
 ## 🚀 Live Demo
 
-> 🔗 *Add your Streamlit app link here once deployed*
+> 🔗 https://image-generation-web-er3unu8idwm3xqg3lscfwx.streamlit.app/
 
 ---
 
